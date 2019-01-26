@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://hyperdev.com/#!/project/welcome-project"
+    "url": "https://glitch.com/@renmanimel/my-projects"
   },
   "keywords": [
     "node",
-    "hyperdev",
+    "renmanimel",
     "express"
   ],
   "license": "MIT"
